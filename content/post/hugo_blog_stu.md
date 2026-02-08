@@ -1,6 +1,6 @@
 +++
 date = '2026-02-07T09:26:34+08:00'
-draft = true
+draft = false
 title = 'Hugo_blog_stu'
 +++
 # Hugo 网站部署指南

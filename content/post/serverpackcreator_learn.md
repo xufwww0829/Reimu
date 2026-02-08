@@ -1,6 +1,6 @@
 +++
 date = '2026-02-07T09:22:40+08:00'
-draft = true
+draft = false
 title = 'Serverpackcreator_learn'
 +++
 # ServerPackCreator 使用指南（泛用版）
