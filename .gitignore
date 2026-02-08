@@ -1,0 +1,6 @@
+hugo.exe
+node_modules
+.DS_Store
+*.log
+public
+resources
