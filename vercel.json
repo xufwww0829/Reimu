@@ -1,5 +1,5 @@
 {
   "buildCommand": "hugo --gc --minify",
   "outputDirectory": "public",
-  "installCommand": "echo 'No install command needed - Hugo is pre-installed'"
+  "framework": "hugo"
 }
