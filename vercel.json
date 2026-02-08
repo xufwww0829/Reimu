@@ -1,5 +1,6 @@
 {
-  "buildCommand": "hugo --gc --minify",
+  "buildCommand": "bash vercel-build.sh",
   "outputDirectory": "public",
-  "framework": "hugo"
+  "installCommand": "echo 'No install needed'",
+  "framework": null
 }
